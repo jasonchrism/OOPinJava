@@ -19,5 +19,6 @@ public class Main {
         char kata[] = str.toCharArray();
         kata[6] = 'w';
         System.out.println(kata);
+        System.out.println("Hi!");
     }
 }
